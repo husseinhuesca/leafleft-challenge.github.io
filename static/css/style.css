@@ -1,1 +1,18 @@
+body {
+  padding: 0;
+  margin: 0;
+}
 
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend{
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: smaller;
+  font-weight: bold;
+}
